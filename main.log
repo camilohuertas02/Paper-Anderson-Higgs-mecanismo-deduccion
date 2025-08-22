@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.17)  21 AUG 2025 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.17)  22 AUG 2025 12:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -242,30 +242,52 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 19.
  (./Secciones/resumen.tex)
-(./Secciones/pre-mecanismo.tex) (./Secciones/mecanismo.tex)
-(./Secciones/post-mecanismo.tex) (./main.bbl
+(./Secciones/pre-mecanismo.tex) (./Secciones/mecanismo.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (2.43896pt too wide) in paragraph at lines 13--14
+\OT1/lmr/m/n/12 campo de gauge(de fuerza) que in-ter-pre-ta-mos como el campo e
+lec-tro-mag-netico. mostramos
+ []
+
+) (./Secciones/post-mecanismo.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+3.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+[2]
+
+! LaTeX Error: \begin{itemize} on input line 12 ended by \end{itesize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{itesize}
+                  
+? 
+) (./main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./main.aux) ) 
+) [3] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2456 strings out of 478008
- 40307 string characters out of 5839802
- 1856330 words of memory out of 5000000
- 22571 multiletter control sequences out of 15000+600000
- 535396 words of font info for 47 fonts, out of 8000000 for 9000
+ 2490 strings out of 478008
+ 41144 string characters out of 5839802
+ 1857330 words of memory out of 5000000
+ 22601 multiletter control sequences out of 15000+600000
+ 535771 words of font info for 48 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  57i,5n,62p,517b,180s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/sh
-are/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/
-lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmr8.pfb>
-Output written on main.pdf (2 pages, 78525 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmb
+x12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmr8.pfb>
+Output written on main.pdf (3 pages, 85297 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

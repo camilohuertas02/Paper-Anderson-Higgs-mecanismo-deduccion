@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1755828485 "main.aux" "main.bbl" "main" 1755828608 0
+["bibtex main"] 1755828485 "main.aux" "main.bbl" "main" 1755884734 0
   "./ref.bib" 1755825744 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "main.aux" 1755828608 1431 2c16b9ee98f7ad7b3ecad3d5a340081a "pdflatex"
+  "main.aux" 1755884734 1887 6e36fb3227fcf9c8bd9244101e355271 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1755828608 "main.tex" "main.pdf" "main" 1755828608 0
+["pdflatex"] 1755884732 "main.tex" "main.pdf" "main" 1755884734 2
   "/etc/texmf/web2c/texmf.cnf" 1739402144 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -32,6 +32,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty" 1625518490 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
+  "/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/share/texmf/fonts/tfm/public/lm/lmex10.tfm" 1148093231 992 ce925c9346c7613270a79afbee98c070 ""
   "/usr/share/texmf/fonts/tfm/public/lm/lmmi12.tfm" 1148093231 1524 753b192b18f2991794f9d41a8228510b ""
   "/usr/share/texmf/fonts/tfm/public/lm/lmmi6.tfm" 1148093231 1512 94a3fd88c6f27dbd9ecb46987e297a4e ""
@@ -43,6 +44,7 @@
   "/usr/share/texmf/fonts/tfm/public/lm/rm-lmr12.tfm" 1254269338 11888 6841b91e46b65cf41a49b160e6e74130 ""
   "/usr/share/texmf/fonts/tfm/public/lm/rm-lmr6.tfm" 1254269338 11836 e3b6ce3e601aec94f64a536e7f4224d5 ""
   "/usr/share/texmf/fonts/tfm/public/lm/rm-lmr8.tfm" 1254269338 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
+  "/usr/share/texmf/fonts/tfm/public/lm/ts1-lmr12.tfm" 1254269338 1596 1d4548788e389ded56d0b01b28377882 ""
   "/usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb" 1255129361 116908 1fca96723793882c2e0160350c192fc8 ""
   "/usr/share/texmf/fonts/type1/public/lm/lmr12.pfb" 1255129361 113634 f99c44d58bae0863375faf0e1d74d612 ""
   "/usr/share/texmf/fonts/type1/public/lm/lmr8.pfb" 1255129361 122174 a7a08406857c9530a0320a2517f60370 ""
@@ -51,16 +53,17 @@
   "/usr/share/texmf/tex/latex/lm/omslmsy.fd" 1616454256 807 3de192f3efa968913bd2f096a7b430d8 ""
   "/usr/share/texmf/tex/latex/lm/omxlmex.fd" 1616454256 568 a5494d810f2680caf10205cd1226c76c ""
   "/usr/share/texmf/tex/latex/lm/ot1lmr.fd" 1616454256 1882 28c08db1407ebff35a658fd141753d16 ""
+  "/usr/share/texmf/tex/latex/lm/ts1lmr.fd" 1616454256 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1747538892 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1747536736 6525881 28ce8bf79b1642b1b2d0a52c7c764ad0 ""
-  "Secciones/mecanismo.tex" 1755828014 279 c925696fa3086987f3d309b7c26cf6a0 ""
-  "Secciones/post-mecanismo.tex" 1755828067 135 837b525e072ec71ad8b3cd3502f3beb0 ""
-  "Secciones/pre-mecanismo.tex" 1755827766 75 95dcac8272c8a4e6d9541d0bb7c95c81 ""
+  "Secciones/mecanismo.tex" 1755884345 1563 28ef174925bd63cab6d49028a36b1287 ""
+  "Secciones/post-mecanismo.tex" 1755884717 1111 c7cdfe5589146e34f42b936957d78e72 ""
+  "Secciones/pre-mecanismo.tex" 1755883717 300 0917d39cd1d5d6f6a4f29edc625a98e5 ""
   "Secciones/resumen.tex" 1755828589 1515 55b2e2d039851691b25d68c27eef287d ""
-  "main.aux" 1755828608 1431 2c16b9ee98f7ad7b3ecad3d5a340081a "pdflatex"
+  "main.aux" 1755884734 1887 6e36fb3227fcf9c8bd9244101e355271 "pdflatex"
   "main.bbl" 1755828485 49 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.tex" 1755828606 842 a4a09232484c7c984bfc1c96577e3037 ""
+  "main.tex" 1755883571 970 f8cf1955285691ad95e7052fa0a30635 ""
   (generated)
   "main.aux"
   "main.log"
