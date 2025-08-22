@@ -1,0 +1,35 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{authblk}
+
+\graphicspath{{./Figuras}}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large Deducción pedagógica completa del Mecanismo de Andreson-Higgs}\\[1em]
+    \normalsize
+	Camilo A. Huertas-Archila$^{1}$, Julian Avila$^{1}$, Jose Luis Zamora$^{1}$\\[0.5em]
+    $^{1}$Programa Académico de Física, Universidad Distrital\\[1em]
+\end{center}
+
+\vspace{1em}
+
+
+\input{./Secciones/resumen.tex}
+\input{./Secciones/pre-mecanismo.tex}
+\input{./Secciones/mecanismo.tex}
+\input{./Secciones/post-mecanismo.tex}
+
+\nocite{*}
+\bibliographystyle{unsrt}
+\bibliography{ref}
+
+\end{document}
